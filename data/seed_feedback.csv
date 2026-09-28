@@ -1,0 +1,101 @@
+feedback,channel,date,product,customer_id,feature
+Stripe checkout modal hangs on processing spinner indefinitely.,Support Ticket,2026-08-30,ShopApp,cust_6235,Payment Gateway
+I can't see the order summary before placing the order in checkout.,Customer Review,2026-09-27,ShopApp,cust_6036,Checkout
+App just closed itself while I was adding items to my cart.,App Feedback,2026-09-08,ShopApp,cust_3945,Mobile App Core
+Verification code arrives 15 minutes late every single time.,Email,2026-09-27,ShopApp,cust_4879,OTP Verification
+Getting 5 promotional notifications every single morning. Stop spamming.,Social Media,2026-09-08,ShopApp,cust_2462,Push Notifications
+Real-time visitors metric is frozen at zero all afternoon.,Customer Review,2026-09-06,ShopApp,cust_4672,Dashboard Reporting
+Getting 5 promotional notifications every single morning. Stop spamming.,App Feedback,2026-09-20,ShopApp,cust_7463,Push Notifications
+Stripe checkout modal hangs on processing spinner indefinitely.,Interview,2026-09-09,ShopApp,cust_1925,Payment Gateway
+The sales graph takes forever to render when selecting 90 days range.,Interview,2026-09-22,ShopApp,cust_2484,Dashboard Reporting
+The checkout page has way too many cluttered steps now.,Support Ticket,2026-09-24,ShopApp,cust_3735,Checkout
+CSV export from analytics is missing order timestamp column.,Survey,2026-08-31,ShopApp,cust_3231,Dashboard Reporting
+Search returns no results even for top trending catalog items.,Support Ticket,2026-09-18,ShopApp,cust_6667,Product Search
+Very fast order tracking. Delivery arrived a day earlier than expected.,Interview,2026-09-18,ShopApp,cust_4651,Storefront
+Google Sign-In button throws OAuth invalid client error.,Interview,2026-09-19,ShopApp,cust_2372,User Login
+Getting logged out every single day. Doesn't remember my session.,Support Ticket,2026-09-09,ShopApp,cust_5808,User Login
+I abandoned my cart because checkout asked for same information twice.,Support Ticket,2026-09-24,ShopApp,cust_3212,Checkout
+Hit maximum OTP retry limit because the first 3 never arrived.,Customer Review,2026-09-15,ShopApp,cust_2980,OTP Verification
+Dashboard metrics don't match our actual sales export numbers.,Customer Review,2026-09-03,ShopApp,cust_7965,Dashboard Reporting
+Filters reset every time I apply price range sorting.,Customer Review,2026-09-17,ShopApp,cust_1345,Product Search
+Order shipped notification arrived 2 days after the package was delivered.,Support Ticket,2026-09-18,ShopApp,cust_4970,Push Notifications
+Very fast order tracking. Delivery arrived a day earlier than expected.,Social Media,2026-09-10,ShopApp,cust_5553,Storefront
+"Froze on splash screen, had to force kill and reinstall.",Email,2026-09-03,ShopApp,cust_8379,Mobile App Core
+"Memory leak issues seem obvious, app gets progressively slower.",Survey,2026-09-15,ShopApp,cust_8825,Mobile App Core
+"Payment failed with error code 502, but my card was charged twice!",Support Ticket,2026-09-09,ShopApp,cust_3614,Payment Gateway
+Infinite login redirect loop on Chrome desktop.,Email,2026-09-18,ShopApp,cust_9624,User Login
+Search returns no results even for top trending catalog items.,Customer Review,2026-09-22,ShopApp,cust_6318,Product Search
+Stripe checkout modal hangs on processing spinner indefinitely.,Social Media,2026-09-23,ShopApp,cust_1998,Payment Gateway
+The app makes my phone overheat and drains 20% battery in 15 minutes.,Support Ticket,2026-09-18,ShopApp,cust_6047,Mobile App Core
+Turned off marketing notifications in settings but still receiving them.,Email,2026-09-03,ShopApp,cust_5506,Push Notifications
+Stripe checkout modal hangs on processing spinner indefinitely.,Interview,2026-09-10,ShopApp,cust_7749,Payment Gateway
+Dashboard metrics don't match our actual sales export numbers.,Customer Review,2026-09-14,ShopApp,cust_6670,Dashboard Reporting
+Customer support resolved my question in under 3 minutes. Fantastic!,Survey,2026-09-19,ShopApp,cust_9381,Storefront
+My credit card gets declined on this app but works everywhere else.,Email,2026-09-22,ShopApp,cust_9303,Payment Gateway
+Checkout was smooth and quick with one-click payment.,Interview,2026-09-09,ShopApp,cust_3999,Storefront
+Dashboard metrics don't match our actual sales export numbers.,Interview,2026-09-27,ShopApp,cust_1100,Dashboard Reporting
+Stripe checkout modal hangs on processing spinner indefinitely.,Email,2026-09-09,ShopApp,cust_8077,Payment Gateway
+Refund took 3 weeks and support hasn't confirmed transaction receipt.,Email,2026-09-26,ShopApp,cust_7677,Payment Gateway
+"Great app, simple navigation and clean interface.",App Feedback,2026-09-25,ShopApp,cust_9636,Storefront
+Google Sign-In button throws OAuth invalid client error.,Survey,2026-09-24,ShopApp,cust_9354,User Login
+The checkout page has way too many cluttered steps now.,App Feedback,2026-09-17,ShopApp,cust_7173,Checkout
+CSV export from analytics is missing order timestamp column.,App Feedback,2026-09-20,ShopApp,cust_3951,Dashboard Reporting
+App just closed itself while I was adding items to my cart.,Interview,2026-09-09,ShopApp,cust_9878,Mobile App Core
+The step 3 of checkout failed to advance when clicking continue.,App Feedback,2026-09-20,ShopApp,cust_5915,Checkout
+Real-time visitors metric is frozen at zero all afternoon.,Survey,2026-09-22,ShopApp,cust_6636,Dashboard Reporting
+Infinite login redirect loop on Chrome desktop.,Social Media,2026-09-26,ShopApp,cust_5560,User Login
+Can't find the card field during checkout. Please revert to previous UI.,App Feedback,2026-09-02,ShopApp,cust_6620,Checkout
+One of the best shopping experiences I've had on mobile.,Support Ticket,2026-09-04,ShopApp,cust_8191,Storefront
+Very fast order tracking. Delivery arrived a day earlier than expected.,Survey,2026-09-12,ShopApp,cust_8060,Storefront
+Password reset link expired before I even received the email.,Social Media,2026-09-18,ShopApp,cust_9365,User Login
+The wishlist sync across devices works flawlessly.,Email,2026-08-29,ShopApp,cust_9093,Storefront
+"Memory leak issues seem obvious, app gets progressively slower.",Email,2026-09-05,ShopApp,cust_8668,Mobile App Core
+CSV export from analytics is missing order timestamp column.,App Feedback,2026-09-17,ShopApp,cust_4744,Dashboard Reporting
+CSV export from analytics is missing order timestamp column.,Support Ticket,2026-08-31,ShopApp,cust_7242,Dashboard Reporting
+Order shipped notification arrived 2 days after the package was delivered.,Interview,2026-09-18,ShopApp,cust_4684,Push Notifications
+Search returns no results even for top trending catalog items.,Customer Review,2026-09-16,ShopApp,cust_3215,Product Search
+The payment gateway timed out while authenticating with my bank.,Customer Review,2026-09-15,ShopApp,cust_8004,Payment Gateway
+Super sluggish performance after the latest v2.4 update.,Survey,2026-09-19,ShopApp,cust_1566,Mobile App Core
+"Froze on splash screen, had to force kill and reinstall.",Email,2026-09-20,ShopApp,cust_7972,Mobile App Core
+Payment declined again. Why does Apple Pay constantly fail here?,Social Media,2026-09-17,ShopApp,cust_2063,Payment Gateway
+Confusing checkout layout. Card details section is almost invisible on dark mode.,App Feedback,2026-09-24,ShopApp,cust_8943,Checkout
+Getting logged out every single day. Doesn't remember my session.,Email,2026-09-14,ShopApp,cust_8121,User Login
+App just closed itself while I was adding items to my cart.,Social Media,2026-09-15,ShopApp,cust_2937,Mobile App Core
+CSV export from analytics is missing order timestamp column.,Support Ticket,2026-09-17,ShopApp,cust_7535,Dashboard Reporting
+Love the new clean design! Super easy to browse products.,Support Ticket,2026-09-09,ShopApp,cust_2672,Storefront
+Getting 5 promotional notifications every single morning. Stop spamming.,Email,2026-09-19,ShopApp,cust_4680,Push Notifications
+The sales graph takes forever to render when selecting 90 days range.,Support Ticket,2026-09-18,ShopApp,cust_5571,Dashboard Reporting
+CSV export from analytics is missing order timestamp column.,App Feedback,2026-09-21,ShopApp,cust_8593,Dashboard Reporting
+Order shipped notification arrived 2 days after the package was delivered.,Customer Review,2026-08-30,ShopApp,cust_7495,Push Notifications
+Getting logged out every single day. Doesn't remember my session.,Interview,2026-09-16,ShopApp,cust_8307,User Login
+Customer support resolved my question in under 3 minutes. Fantastic!,Customer Review,2026-09-04,ShopApp,cust_8030,Storefront
+"Memory leak issues seem obvious, app gets progressively slower.",Email,2026-09-21,ShopApp,cust_1725,Mobile App Core
+Getting 5 promotional notifications every single morning. Stop spamming.,Interview,2026-08-29,ShopApp,cust_4829,Push Notifications
+App crashes every time I scroll past the 5th product on the feed.,Interview,2026-09-08,ShopApp,cust_5640,Mobile App Core
+Real-time visitors metric is frozen at zero all afternoon.,App Feedback,2026-09-05,ShopApp,cust_7434,Dashboard Reporting
+Order shipped notification arrived 2 days after the package was delivered.,Email,2026-09-06,ShopApp,cust_9889,Push Notifications
+One of the best shopping experiences I've had on mobile.,Support Ticket,2026-09-12,ShopApp,cust_2317,Storefront
+Turned off marketing notifications in settings but still receiving them.,Survey,2026-08-28,ShopApp,cust_2478,Push Notifications
+Dashboard metrics don't match our actual sales export numbers.,Interview,2026-09-14,ShopApp,cust_6223,Dashboard Reporting
+Password reset link expired before I even received the email.,Social Media,2026-09-05,ShopApp,cust_2523,User Login
+Search returns no results even for top trending catalog items.,App Feedback,2026-09-06,ShopApp,cust_6933,Product Search
+Checkout was smooth and quick with one-click payment.,Survey,2026-09-21,ShopApp,cust_5921,Storefront
+Love the new clean design! Super easy to browse products.,Customer Review,2026-09-13,ShopApp,cust_6201,Storefront
+The step 3 of checkout failed to advance when clicking continue.,Support Ticket,2026-09-15,ShopApp,cust_4089,Checkout
+My credit card gets declined on this app but works everywhere else.,Customer Review,2026-08-29,ShopApp,cust_6166,Payment Gateway
+Dashboard metrics don't match our actual sales export numbers.,Support Ticket,2026-09-08,ShopApp,cust_9663,Dashboard Reporting
+App just closed itself while I was adding items to my cart.,Customer Review,2026-09-27,ShopApp,cust_5783,Mobile App Core
+The checkout flow is difficult and keeps asking me to re-verify billing address.,Customer Review,2026-09-10,ShopApp,cust_6520,Checkout
+Infinite login redirect loop on Chrome desktop.,App Feedback,2026-09-20,ShopApp,cust_1109,User Login
+The sales graph takes forever to render when selecting 90 days range.,App Feedback,2026-09-17,ShopApp,cust_5618,Dashboard Reporting
+The wishlist sync across devices works flawlessly.,App Feedback,2026-09-16,ShopApp,cust_3784,Storefront
+Order shipped notification arrived 2 days after the package was delivered.,Support Ticket,2026-09-02,ShopApp,cust_1800,Push Notifications
+The verification screen times out before the code reaches my phone.,Support Ticket,2026-09-08,ShopApp,cust_6407,OTP Verification
+Love the new clean design! Super easy to browse products.,Email,2026-09-16,ShopApp,cust_3028,Storefront
+Search returns no results even for top trending catalog items.,Email,2026-09-07,ShopApp,cust_5566,Product Search
+Very fast order tracking. Delivery arrived a day earlier than expected.,App Feedback,2026-09-15,ShopApp,cust_1577,Storefront
+Searching for 'wireless headphones' returns phone chargers and cables.,Email,2026-09-18,ShopApp,cust_6605,Product Search
+OTP took 10 minutes to arrive and by then it was already expired.,Support Ticket,2026-09-25,ShopApp,cust_9547,OTP Verification
+Order shipped notification arrived 2 days after the package was delivered.,Support Ticket,2026-09-25,ShopApp,cust_4804,Push Notifications
+I can't see the order summary before placing the order in checkout.,Survey,2026-09-27,ShopApp,cust_4794,Checkout
+Google Sign-In button throws OAuth invalid client error.,Support Ticket,2026-09-22,ShopApp,cust_9372,User Login
